@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-kubernetes
+
+about:
+  title: Learning Kubernetes
+  description: An open-source container-orchestration system for automating application deployment, scaling, and management
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
